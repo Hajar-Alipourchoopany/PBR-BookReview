@@ -17,6 +17,7 @@ const AboutUsPage = () => {
         <p>
           Ein großer Dank geht an das gesamte WBS Coding School Team, insbesondere an meinen Instructor Onur, für ihre Unterstützung und Anleitung während dieses Projekts.
         </p>
+        <p>Hajar Alipourchoopany</p>
       </div>
     </div>
   );
