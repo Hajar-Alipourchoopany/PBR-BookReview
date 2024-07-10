@@ -15,7 +15,7 @@ const AboutUsPage = () => {
           Unser Projekt basiert auf dem MERN-Stack (MongoDB, Express.js, React und Node.js).
         </p>
         <p>
-          Ein großer Dank geht an das gesamte WBS Coding School Team, insbesondere an meinen Instructor Onur, für ihre Unterstützung und Anleitung während dieses Projekts.
+          Ein großer Dank geht an das gesamte WBS Coding School Team, insbesondere an meinen Instructor Onur, für seine Unterstützung und Anleitung während dieses Projekts.
         </p>
         <p>Hajar Alipourchoopany</p>
       </div>
